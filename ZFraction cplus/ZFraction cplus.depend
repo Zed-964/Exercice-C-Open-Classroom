@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620035273 source:c:\users\enzot\documents\cned\open clasroom 1\zfraction cplus\main.cpp
+	<iostream>
+	"ZFraction.h"
+
+1620037114 c:\users\enzot\documents\cned\open clasroom 1\zfraction cplus\zfraction.h
+	<iostream>
+
+1620037114 source:c:\users\enzot\documents\cned\open clasroom 1\zfraction cplus\zfraction.cpp
+	<iostream>
+	"ZFraction.h"
+
