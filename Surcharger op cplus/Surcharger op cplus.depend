@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619705571 source:c:\users\enzot\documents\cned\open clasroom 1\surcharger op cplus\main.cpp
+	<iostream>
+	"Duree.h"
+
+1619706127 c:\users\enzot\documents\cned\open clasroom 1\surcharger op cplus\duree.h
+
+1619706094 source:c:\users\enzot\documents\cned\open clasroom 1\surcharger op cplus\duree.cpp
+	"Duree.h"
+	<iostream>
+
