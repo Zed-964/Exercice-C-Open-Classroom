@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1619608928 source:c:\users\enzot\documents\cned\open clasroom 1\creer class 1 cplus\arme.cpp
+	"Arme.h"
+
+1619608928 c:\users\enzot\documents\cned\open clasroom 1\creer class 1 cplus\arme.h
+	<iostream>
+	<string>
+
+1619691588 source:c:\users\enzot\documents\cned\open clasroom 1\creer class 1 cplus\main.cpp
+	<iostream>
+	"Personnage.h"
+
+1619691641 c:\users\enzot\documents\cned\open clasroom 1\creer class 1 cplus\personnage.h
+	<string>
+	"Arme.h"
+	"Sort.h"
+
+1619622521 c:\users\enzot\documents\cned\open clasroom 1\creer class 1 cplus\sort.h
+	<iostream>
+	<string>
+
+1619622488 source:c:\users\enzot\documents\cned\open clasroom 1\creer class 1 cplus\personnage.cpp
+	"Personnage.h"
+
+1619622521 source:c:\users\enzot\documents\cned\open clasroom 1\creer class 1 cplus\sort.cpp
+	"Sort.h"
+
